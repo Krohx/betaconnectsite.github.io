@@ -1,0 +1,8 @@
+gitnore
+*~
+*.swp
+*.orig
+.hg
+*hgignore*
+*zedstate*
+*.sqlite
