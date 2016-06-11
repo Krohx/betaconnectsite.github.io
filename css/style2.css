@@ -2024,20 +2024,20 @@ input.field,textarea.field {
 	}
 }
 .contact-locations .new-haven {
-	background-image:url(../images/pages/microsoft-dynamics-partner-training-event.jpg);
+	background-image:url(../images/pages/img_blank_722012_9531632.JPG);
 	background-color:#bec8ca
 }
 .contact-locations .new-york {
-	background-image:url(../images/pages/Microsoft-Office-Training-Materials.png);
+	background-image:url(../images/pages/microsoft-office-training.jpg);
 	background-color:#bebcbf
 }
 .contact-locations .vancouver {
-	background-image:url(../images/pages/pmaspire_pmp_training-1.jpg);
+	background-image:url(../images/pages/WriteImg.asp.png);
 	background-color:#ccc
 }
 
 .contact-locations .new-haven1 {
-	background-image:url(../images/pages/AAEAAQAAAAAAAAYYAAAAJGVkOTc3MTc2LWUxYjItNDBhYi04OGVkLTZhOTM0Yjg3MjMzNg.jpg);
+	background-image:url(../images/pages/shutterstock_151453055-300x255.jpg);
 	background-color:#bec8ca
 }
 .contact-locations .new-york1 {
@@ -2048,6 +2048,13 @@ input.field,textarea.field {
 .contact-locations .vancouver1 {
 	background-image:url(../images/pages/5834909.jpg);
 	background-color:#ccc
+}
+.content:hover{
+	display: none !important;
+}
+.new-haven img{
+	width: 100%;
+	height: auto;
 }
 
 
